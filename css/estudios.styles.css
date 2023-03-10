@@ -18,3 +18,7 @@ div > p{
     color: var(--grey-90);
 
 }
+
+.list{
+    line-height: 24px;
+}
